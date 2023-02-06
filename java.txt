@@ -1,1 +1,1 @@
-java é uma linguagem de programação multiplataforma, consegue fazer programas para android, ios, desktop e tem divérsas aplicações!
+java é uma linguagem de programação multiplataforma, consegue fazer programas para android, ios, desktop e tem divérsas aplicações!.
