@@ -1,2 +1,2 @@
-# Aula_gen
-Aulas desenvolvidas no curso da Generation
+# Generation
+Exercícios desenvolvidos no BootCamp da Generation
