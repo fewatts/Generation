@@ -8,5 +8,7 @@ class FirstProgram {
         // Entry point -> ponto que todos os sistemas procuram para iniciar o projeto
         // Métodos: System.ouy.println()
         // Propriedades e variáveis -> Lugar que armazena dados para manipulação
+        //javac nome.java -> cria bytecode
+        //java nome.class -> executa o programa
     }
 }
